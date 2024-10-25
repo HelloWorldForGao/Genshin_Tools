@@ -1,0 +1,9 @@
+geometrys = [400,200]
+geometry = "400x200"
+title = "主窗口"
+yulu = ["你为什么不把他放旁边的草地上","致敬传奇耐睡王 - 某黄毛","基尼奇：额滴神剑！啊！"]
+buttons = ["点我换语录","点我打印语录","打印时是否切换语录"]
+when_quit = "退出"
+changeneed = False
+enabled_cneed = "已开启打印时切换语录"
+disable_cneed = "已关闭打印时切换语录"
